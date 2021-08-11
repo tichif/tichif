@@ -1,12 +1,13 @@
 # Charles-Hébert Dalzon
 #### Full stack web developer
-I'm Charles-Hébert Dalzon from Haiti, but everybody calls me Charly or Tichif. I really fascinated about web development specially backend side. Some technologies I enjoy working with React JS & Redux, Node JS (Express) and REST API. 
+I'm Charles-Hébert Dalzon from Haiti, but everybody calls me Charly or Tichif. I really fascinated about web development specially backend side. Some technologies I enjoy working with React JS & Redux, Node JS (Express), Docker and REST API. 
 
 ### Skills 
 * 💻 NODE JS (Express)
 * ⚛  REACT && REDUX
 * 🕸  REST API
 * 📝 MYSQL / MONGO DB
+* ♻  Docker
 
 
 
