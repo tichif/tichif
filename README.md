@@ -18,4 +18,6 @@ I'm Charles-Hébert Dalzon from Haiti, but everybody calls me Charly or Tichif. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tichif&show_icons=true)  
 
+<a href="https://app.daily.dev/Tichif"><img src="https://api.daily.dev/devcards/a887baac212a4485b58962c80e8da9b6.png?r=l8s" width="400" alt="Dalzon Charles-Hébert's Dev Card"/></a>
+
 
